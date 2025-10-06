@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/food-recipe-21392-19540/BackendAPIService"
+}
